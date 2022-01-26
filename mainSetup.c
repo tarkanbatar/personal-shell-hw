@@ -6,7 +6,7 @@
 #include <sys/wait.h>
 #include <string.h>
  
-#define MAX_LINE 80 /* 80 chars per line, per command, should be enough. */
+#define MAX_LINE 80 
  
 //		PATH NAME STRUCTS
 // 
